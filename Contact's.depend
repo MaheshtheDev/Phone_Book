@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1522586553 source:c:\users\mahesh.sv\desktop\programme's\sem 1-2\contact's\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+
+1523377386 source:c:\users\mahesh.sv\desktop\programme's\c project\contact's\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+
