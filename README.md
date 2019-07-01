@@ -1,2 +1,2 @@
 # Phone Book
-This code for Contact's Management in C++
+ This Project is Capable of Storing Data of Contact Details 
